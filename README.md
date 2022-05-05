@@ -25,7 +25,7 @@ Source for projects: https://www.freecodecamp.org/news/javascript-projects-for-b
 ✓ Exercise 17 - How to create a Simon Game
 Exercise 18 - How to create a Platformer Game
 ✓ Exercise 19 - How to create Doodle Jump
-Exercise 20 - How to create Flappy Bird
+✓ Exercise 20 - How to create Flappy Bird
 Exercise 21 - How to create a Memory game
 Exercise 22 - How to create a Whack-a-mole game
 Exercise 23 - How to create Connect Four game
