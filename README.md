@@ -2,6 +2,8 @@
 
 **Update 5/4/2022** - *Dang, y'all. I read "simple" and my brain saw "quick" - these projects are fun but time intensive! So we're extending this project through May.*
 
+**Update 5/25/2022** - *Somehow messed up my npm and had to fully uninstall and reinstall it to avoid each npm install command line invocation from taking a full hour. Never a dull day learning with JS*
+
 Completing 40 simple Javascript projects in the month of April 2022, using Vanilla, React, and Typescript
 Source for projects: https://www.freecodecamp.org/news/javascript-projects-for-beginners/
 
@@ -26,19 +28,19 @@ Source for projects: https://www.freecodecamp.org/news/javascript-projects-for-b
 Exercise 18 - How to create a Platformer Game
 ✓ Exercise 19 - How to create Doodle Jump
 ✓ Exercise 20 - How to create Flappy Bird
-Exercise 21 - How to create a Memory game
-Exercise 22 - How to create a Whack-a-mole game
-Exercise 23 - How to create Connect Four game
-Exercise 24 - How to create a Snake game
-Exercise 25 - How to create a Space Invaders game
-Exercise 26 - How to create a Frogger game
-Exercise 27 - How to create a Tetris game
+✓ Exercise 21 - How to create a Memory game
+✓ Exercise 22 - How to create a Whack-a-mole game
+✓ Exercise 23 - How to create Connect Four game
+✓ Exercise 24 - How to create a Snake game
+✓ Exercise 25 - How to create a Space Invaders game
+✓ Exercise 26 - How to create a Frogger game
+✓ Exercise 27 - How to create a Tetris game
 
 ## React Projects
-Exercise 28 - How to build a Tic-Tac-Toe game using React Hooks
+✓ Exercise 28 - How to build a Tic-Tac-Toe game using React Hooks
 Exercise 29 - How to build a Tetris Game using React Hooks
-Exercise 30 - How to create a Birthday Reminder App
-Exercise 31 - How to create a tours page
+✓ Exercise 30 - How to create a Birthday Reminder App
+✓ Exercise 31 - How to create a tours page
 Exercise 32 - How to create an accordion menu
 Exercise 33 - How to create tabs for a portfolio page
 Exercise 34 - How to create a review slider
